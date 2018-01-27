@@ -1,0 +1,24 @@
+line 2 .______________________
+The term "eror" has spelling problem.
+Replace suggestions: 
+error
+err
+errors
+line 2 .______________________
+The term "canr" has spelling problem.
+Replace suggestions: 
+caner
+can
+car
+line 2 .______________________
+The term "thise" has spelling problem.
+Replace suggestions: 
+thisbe
+this
+thissen
+line 3 .______________________
+The term "writq" has spelling problem.
+Replace suggestions: 
+writ
+wrist
+write
